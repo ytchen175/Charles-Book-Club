@@ -1,6 +1,15 @@
 # Charles-Book-Club
 Build a xgboost model to predict whether a person will purchase a book about "The Art History of Florence" based on past purchases or not.
 
+feature_importance
+![image](https://github.com/ytchen175/image/blob/master/importance.png?raw=true)
+
+plot_tree
+![image](https://github.com/ytchen175/image/blob/master/tree.png?raw=true)
+
+shap_value
+![image](https://github.com/ytchen175/image/blob/master/shap.jpg?raw=true)
+
 
 Description of Variables:
 
