@@ -1,18 +1,25 @@
 # Charles-Book-Club
+
+###### Model : `XGBoost`
+###### Library : `XGBoost`, `shap`
+###### Keywords : `Machine Learning`, `Classification`, `Shapely Score`
+
+# Description
 Build a xgboost model to predict whether a person will purchase a book about "The Art History of Florence" based on past purchases or not.
 
-feature_importance
+# Result
+Feature Importance : \
 ![image](https://github.com/ytchen175/image/blob/master/importance.png?raw=true)
 
-plot_tree
+Plot Tree : \
 ![image](https://github.com/ytchen175/image/blob/master/tree.png?raw=true)
 
-shap_value
+Shap Value : \
 ![image](https://github.com/ytchen175/image/blob/master/shap.jpg?raw=true)
 
+# Details
 
 Description of Variables:
-
 
 Seq#: Sequence number
 
